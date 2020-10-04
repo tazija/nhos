@@ -1,0 +1,18 @@
+{
+    "rig": {
+        "btc": "35Bcn5NuEGQ4cZau1q52oZoP18GsBmBJh6",
+        "worker": "rig004",
+        "group": ""
+    },
+    "access": {
+        "ssh": {
+            "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD264BtsrBmpyVy1W1Kb2OVi2HJFQRaTLRVAzm/n4IYnm8vTye+nsVoc+0f3vqHIbZLW2a44mSQMrQfKk3IVmPVp//l5ARE24AIn7Rmnna8rzLYldi1Efq65C1gCQvPwBTin8xcVqxglQEFohlj5S4cYTlV+NUYIEfLOiBN03EGU+0djt6Pjr9RFTRWijnQP8UmKQSKprAKEuFHvNwZ+i3X049ju+iiTAKl4LmaquhI8wJtijagDIUHfRBU4gGMYpOipIUOaY4IM4JeoiYc9oWeM5QKpEO9W5aF3RKCFDVCaMgK8BcHFRwrZMocYwyIj13uMdKocTCjjHNVxSNktHRd nhos"
+        }
+    },
+    "network": {
+        "wireless": {
+            "ssid": "",
+            "key": ""
+        }
+    }
+}
