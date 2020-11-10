@@ -14,5 +14,28 @@
             "ssid": "",
             "key": ""
         }
-    }
+    },
+    "fan_control": [
+        {"tmpc": 40, "spdp" : 60},
+        {"tmpc": 41, "spdp" : 62},
+        {"tmpc": 42, "spdp" : 64},
+        {"tmpc": 43, "spdp" : 66},
+        {"tmpc": 44, "spdp" : 68},
+        {"tmpc": 45, "spdp" : 70},
+        {"tmpc": 46, "spdp" : 72},
+        {"tmpc": 47, "spdp" : 74},
+        {"tmpc": 48, "spdp" : 76},
+        {"tmpc": 49, "spdp" : 78},
+        {"tmpc": 50, "spdp" : 80},
+        {"tmpc": 51, "spdp" : 82},
+        {"tmpc": 52, "spdp" : 84},
+        {"tmpc": 53, "spdp" : 86},
+        {"tmpc": 54, "spdp" : 88},
+        {"tmpc": 55, "spdp" : 90},
+        {"tmpc": 56, "spdp" : 92},
+        {"tmpc": 57, "spdp" : 94},
+        {"tmpc": 58, "spdp" : 96},
+        {"tmpc": 59, "spdp" : 98},
+        {"tmpc": 60, "spdp" : 100}
+    ]
 }
