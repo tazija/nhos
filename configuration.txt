@@ -37,5 +37,8 @@
         {"tmpc": 58, "spdp" : 96},
         {"tmpc": 59, "spdp" : 98},
         {"tmpc": 60, "spdp" : 100}
-    ]
+    ],
+    "log": {
+        "persist": true
+    }
 }
